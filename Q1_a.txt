@@ -1,0 +1,2 @@
+β - Taxa de transmissão
+γ - Taxa de Recuperação
